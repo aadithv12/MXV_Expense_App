@@ -2,8 +2,8 @@
 import { ExpenseEntry, ExtractedExpenseData } from '../types';
 
 // The actual N8N webhook URL provided by the user.
-const N8N_WEBHOOK_URL = 'https://avsmxv.app.n8n.cloud/webhook-test/47d70ffc-5531-4013-98e7-458e703e3e36';
-const N8N_OTP_WEBHOOK_URL = 'https://avsmxv.app.n8n.cloud/webhook-test/8e4db7bf-ea4b-40a0-beb3-faa2ea28a3cc';
+const N8N_WEBHOOK_URL = 'https://avsmxv.app.n8n.cloud/webhook/47d70ffc-5531-4013-98e7-458e703e3e36';
+const N8N_OTP_WEBHOOK_URL = 'https://avsmxv.app.n8n.cloud/webhook/8e4db7bf-ea4b-40a0-beb3-faa2ea28a3cc';
 
 /**
  * Submits all entries for a report to the N8N webhook as a single JSON array.
