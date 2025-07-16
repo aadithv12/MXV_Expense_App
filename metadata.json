@@ -1,0 +1,7 @@
+{
+  "name": "Corporate Expense Manager",
+  "description": "A corporate expensing software that allows you to file your expenses. Manage open and new expense reports, add entries by uploading receipts, and submit them for processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
